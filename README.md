@@ -1,5 +1,7 @@
 # UploadMagnetSDK
 .NET API Library for uploadmagnet.com
+`Download:`[https://github.com/loudKode/UploadMagnetSDK/releases](https://github.com/loudKode/UploadMagnetSDK/releases)
+
 > [Supported File Sharing Services](https://github.com/loudKode/UploadMagnetSDK/wiki/Supported-File-Sharing-Services)
 # Functions:
 ```vb.net
